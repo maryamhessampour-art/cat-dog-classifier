@@ -37,8 +37,6 @@ cat-dog-classifier/
 └── README.md
 
 
-بعد از این ساختار، یک توضیح کوتاه هم می‌ذاریم:
-
 ```markdown
 ### Main Files
 
